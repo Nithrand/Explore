@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Sprites\Player\playerSpriteSheet.png</Source>
+      <Name>Sprites\Player\playerSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\George\Documents\Visual Studio 2010\Projects\Explore\Explore\Explore\bin\x86\Debug\Content\Sprites\Player\playerSpriteSheet.xnb</Output>
+      <Time>2013-01-07T19:45:00.2478661-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Enemy\enemySpriteSheet.png</Source>
+      <Name>Sprites\Enemy\enemySpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\George\Documents\Visual Studio 2010\Projects\Explore\Explore\Explore\bin\x86\Debug\Content\Sprites\Enemy\enemySpriteSheet.xnb</Output>
+      <Time>2013-01-07T19:46:18.6053478-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Map\mapSpriteSheet.png</Source>
+      <Name>Sprites\Map\mapSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\George\Documents\Visual Studio 2010\Projects\Explore\Explore\Explore\bin\x86\Debug\Content\Sprites\Map\mapSpriteSheet.xnb</Output>
+      <Time>2013-01-07T19:47:15.7416159-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{ABA610CB-588D-4AD9-87D8-CC34C45EB8C2}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\George\Documents\Visual Studio 2010\Projects\Explore\Explore\ExploreContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\George\Documents\Visual Studio 2010\Projects\Explore\Explore\Explore\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\George\Documents\Visual Studio 2010\Projects\Explore\Explore\Explore\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\George\Documents\Visual Studio 2010\Projects\Explore\Explore\Explore\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-01-07T18:54:24.5422336-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

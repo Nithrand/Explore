@@ -1,0 +1,3 @@
+Content\Sprites\Player\playerSpriteSheet.xnb
+Content\Sprites\Enemy\enemySpriteSheet.xnb
+Content\Sprites\Map\mapSpriteSheet.xnb

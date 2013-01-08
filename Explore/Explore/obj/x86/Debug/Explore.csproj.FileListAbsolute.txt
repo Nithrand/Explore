@@ -1,0 +1,9 @@
+c:\users\george\documents\visual studio 2010\Projects\Explore\Explore\Explore\bin\x86\Debug\Explore.exe
+c:\users\george\documents\visual studio 2010\Projects\Explore\Explore\Explore\bin\x86\Debug\Explore.pdb
+c:\users\george\documents\visual studio 2010\Projects\Explore\Explore\Explore\obj\x86\Debug\Explore.csprojResolveAssemblyReference.cache
+c:\users\george\documents\visual studio 2010\Projects\Explore\Explore\Explore\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\george\documents\visual studio 2010\Projects\Explore\Explore\Explore\obj\x86\Debug\Explore.exe
+c:\users\george\documents\visual studio 2010\Projects\Explore\Explore\Explore\obj\x86\Debug\Explore.pdb
+C:\Users\George\Documents\Visual Studio 2010\Projects\Explore\Explore\Explore\bin\x86\Debug\Content\Sprites\Player\playerSpriteSheet.xnb
+C:\Users\George\Documents\Visual Studio 2010\Projects\Explore\Explore\Explore\bin\x86\Debug\Content\Sprites\Enemy\enemySpriteSheet.xnb
+C:\Users\George\Documents\Visual Studio 2010\Projects\Explore\Explore\Explore\bin\x86\Debug\Content\Sprites\Map\mapSpriteSheet.xnb
